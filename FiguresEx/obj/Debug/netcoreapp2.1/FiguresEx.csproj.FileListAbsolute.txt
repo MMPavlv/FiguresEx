@@ -1,0 +1,11 @@
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\bin\Debug\netcoreapp2.1\FiguresEx.deps.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\bin\Debug\netcoreapp2.1\FiguresEx.runtimeconfig.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\bin\Debug\netcoreapp2.1\FiguresEx.runtimeconfig.dev.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\bin\Debug\netcoreapp2.1\FiguresEx.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\bin\Debug\netcoreapp2.1\FiguresEx.pdb
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.csprojAssemblyReference.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.csproj.CoreCompileInputs.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.AssemblyInfoInputs.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.AssemblyInfo.cs
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresEx\obj\Debug\netcoreapp2.1\FiguresEx.pdb

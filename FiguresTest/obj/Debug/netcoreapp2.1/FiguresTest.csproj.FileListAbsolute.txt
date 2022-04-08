@@ -1,0 +1,17 @@
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresTest.deps.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresTest.runtimeconfig.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresTest.runtimeconfig.dev.json
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresTest.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresTest.pdb
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresEx.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\bin\Debug\netcoreapp2.1\FiguresEx.pdb
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.csprojAssemblyReference.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.csproj.CoreCompileInputs.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.AssemblyInfoInputs.cache
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.AssemblyInfo.cs
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.csproj.CopyComplete
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.dll
+C:\Users\Alter\source\repos\FiguresEx\FiguresTest\obj\Debug\netcoreapp2.1\FiguresTest.pdb
