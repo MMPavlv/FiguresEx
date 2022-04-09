@@ -55,7 +55,7 @@ namespace FiguresEx
             if (figure.Radius <= 0)
                 throw new ArgumentOutOfRangeException("figure");
 
-            return Math.PI * figure.Radius;
+            return Math.PI * figure.Radius * figure.Radius;
         }
 
         public double CalculateArea(Triangle figure)
