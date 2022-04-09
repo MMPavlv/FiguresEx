@@ -12,7 +12,7 @@ namespace FiguresTest
             Calculation calc = new Calculation();
             Circle c = new Circle(10);
 
-            double expected = 31.415;
+            double expected = 314.159;
 
             double actual = calc.CalculateArea<Circle>(c);
 
